@@ -57,6 +57,14 @@ docker exec -it <container name> bash
 下载其他组件、最新 Beta 版及之前版本的安装包，请点击[这里](https://www.taosdata.com/cn/all-downloads/)。
 
 </TabItem>
+<TabItem value="geekcode" label="Playground">
+在线体验 TDengine
+          
+[![Open in GeekCode](https://geekcode.cloud/button/open-in-geekcode.svg)](https://geekcode.cloud/#https://github.com/gcodecloud/tdengine-playground) <-- click here
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/1196420/183874532-294bf296-0365-4dc2-bd7d-71b34c0c6a7c.png">
+
+</TabItem>
 </Tabs>
 
 ## 启动
